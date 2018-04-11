@@ -1,1 +1,3 @@
-create subnets in NS3 (version 3.27)
+Based on NS3.27, 
+
+lab1: create subnets in NS3
